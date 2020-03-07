@@ -225,7 +225,7 @@ li#userspace{
      text-decoration: none;
      transition: 100ms linear 50ms;
 }
- #chat [data-cid|='3560664'].emote {
+ #chat [data-cid|='29698377'].emote {
      border-left: #FF9900 3px solid !important;
      background-color: rgba(53, 75, 124, 0.22) !important;
 }
@@ -283,7 +283,7 @@ li#userspace{
      transition: 100ms linear 50ms;
 }
 */
-/*#chat [data-cid|='3560664'].emote {
+/*#chat [data-cid|='29698377'].emote {
      display: none;
 }
 */
@@ -322,16 +322,16 @@ li#userspace{
      bottom:0;
      background: transparent;
 }
- #chat [data-cid|='3560664'].emote {
+ #chat [data-cid|='29698377'].emote {
      color: #FF9900 !important;
 }
- #chat [data-cid|='3560664'].emote .text {
+ #chat [data-cid|='29698377'].emote .text {
      font-style: normal;
      font-weight: bold;
      color: #FFFFFF !important;
 }
- [data-cid|="3560664"] .msg .from .icon-chat-manager {
-     background-image: url('https://i.imgur.com/DO20H9J.png') !important;
+ [data-cid|="29698377"] .msg .from .icon-chat-manager {
+     background-image: url('https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Error.png') !important;
 }
  .fromID-23146932 i {
      background-image: url(https://i.animemusic.me/i/discord.png);
@@ -451,7 +451,7 @@ li#userspace{
      display: none;
 }
  #app {
-     background-image: url('https://i.imgur.com/dN9a5Ov.jpg');
+     background-image: url('https://i.imgur.com/nUGQzHj.gif');
      background-size: cover !important;
 }
  #onesignal-bell-container, .onesignal-bell-container {
